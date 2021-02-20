@@ -18,7 +18,7 @@ class HelloWorld extends Component {
   render() {
     return (
         <div>
-          <h2>Hello <em>{this.props.name}</em></h2>
+          <h2>Hello World!<em>{this.props.name}</em></h2>
         </div>
     )
   }
