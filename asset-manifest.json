@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Game-Stonk/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/Game-Stonk/static/js/main.ce6364d4.chunk.js",
+    "main.js.map": "/Game-Stonk/static/js/main.ce6364d4.chunk.js.map",
+    "runtime-main.js": "/Game-Stonk/static/js/runtime-main.8e3d44e5.js",
+    "runtime-main.js.map": "/Game-Stonk/static/js/runtime-main.8e3d44e5.js.map",
+    "static/js/2.98c63dea.chunk.js": "/Game-Stonk/static/js/2.98c63dea.chunk.js",
+    "static/js/2.98c63dea.chunk.js.map": "/Game-Stonk/static/js/2.98c63dea.chunk.js.map",
+    "static/js/3.b65e2926.chunk.js": "/Game-Stonk/static/js/3.b65e2926.chunk.js",
+    "static/js/3.b65e2926.chunk.js.map": "/Game-Stonk/static/js/3.b65e2926.chunk.js.map",
+    "index.html": "/Game-Stonk/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/Game-Stonk/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.98c63dea.chunk.js.LICENSE.txt": "/Game-Stonk/static/js/2.98c63dea.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Game-Stonk/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8e3d44e5.js",
+    "static/js/2.98c63dea.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.ce6364d4.chunk.js"
+  ]
+}
